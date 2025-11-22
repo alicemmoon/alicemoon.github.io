@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jane Doe | PhD Candidate</title>
+    <title>Alice Moon | PhD Candidate</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Font Awesome Icons -->
@@ -54,10 +54,10 @@
                 
                 <!-- Instructions: Replace src with your photo URL -->
                 <div class="w-40 h-40 rounded-full border-4 border-gray-700 overflow-hidden mb-6 shadow-xl relative">
-                    <img src="/api/placeholder/400/400" alt="Jane Doe" class="w-full h-full object-cover" onerror="this.src='https://ui-avatars.com/api/?name=Jane+Doe&background=random&size=400'">
+                    <img src="/api/placeholder/400/400" alt="Alice Moon" class="w-full h-full object-cover" onerror="this.src='https://ui-avatars.com/api/?name=Alice+Moon&background=random&size=400'">
                 </div>
 
-                <h1 class="text-2xl font-serif font-bold tracking-wide mb-1 text-white">Jane Doe</h1>
+                <h1 class="text-2xl font-serif font-bold tracking-wide mb-1 text-white">Alice Moon</h1>
                 <p class="text-sky-400 text-sm font-medium tracking-wider mb-6">PHD CANDIDATE</p>
 
                 <!-- Navigation -->
@@ -78,7 +78,7 @@
 
                 <!-- Footer Socials -->
                 <div class="mt-auto w-full pt-6 border-t border-gray-700 flex justify-center space-x-5">
-                    <a href="mailto:jane@example.com" class="text-gray-400 hover:text-white transition"><i class="fas fa-envelope text-lg"></i></a>
+                    <a href="mailto:moon.519@osu.edu" class="text-gray-400 hover:text-white transition"><i class="fas fa-envelope text-lg"></i></a>
                     <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-github text-lg"></i></a>
                     <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-twitter text-lg"></i></a>
                     <a href="#" class="text-gray-400 hover:text-white transition"><i class="fas fa-graduation-cap text-lg"></i></a>
